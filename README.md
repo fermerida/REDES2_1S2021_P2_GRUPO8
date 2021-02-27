@@ -1,9 +1,9 @@
 # REDES2_1S2021_P2_GRUPO8
 
 Grupo 8
-Fernando Andrés Mérida Antón		201314713
-Jennifer Lorena Rodríguez López     200714174
-Carlos Gabriel Peralta Cambrán		201314556
+* Fernando Andrés Mérida Antón		201314713
+* Jennifer Lorena Rodríguez López   200714174
+* Carlos Gabriel Peralta Cambrán	201314556
 
 ## Introducción
 
